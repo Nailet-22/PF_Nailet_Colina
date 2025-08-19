@@ -1,0 +1,5 @@
+@EndUserText.label: 'ZC_DT_INCT_NAI'
+@MappingRole: true
+define role ZC_DT_INCT_NAI {
+  grant select on ZC_DT_INCT_NAI;
+}
